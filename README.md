@@ -9,9 +9,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" align="center"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" align="center"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" align="center">
 
 ## ⚙️ &nbsp;GitHub Analytics
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=luizhcordeiro&show_icons=true&theme=radical" alt="KayoSilva19's stats"/>
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhcordeiro&layout=compact&theme=tokyonight" alt="KayoSilva19's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=luizhcordeiro&show_icons=true&theme=radical" alt="KayoSilva19's stats"/><img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhcordeiro&layout=compact&theme=tokyonight" alt="KayoSilva19's most languages"/>
 
 ## &nbsp;Social Links
 
