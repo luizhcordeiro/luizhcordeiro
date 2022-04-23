@@ -17,7 +17,7 @@
 
 
 ## ⚙️ &nbsp;GitHub Analytics
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=luizhcordeiro&show_icons=true&theme=radical" alt="KayoSilva19's stats"/><img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhcordeiro&layout=compact&theme=tokyonight" alt="KayoSilva19's most languages"/>
+<img  width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhcordeiro&layout=compact&theme=tokyonight" alt="KayoSilva19's most languages"/>  <img  width="500em" src="https://github-readme-stats.vercel.app/api?username=luizhcordeiro&show_icons=true&theme=radical" alt="KayoSilva19's stats"/>
 
 ## &nbsp;Social Links
 
