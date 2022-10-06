@@ -16,9 +16,6 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" align="center"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" align="center"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" align="center"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="nodejs" align="center"> 
 
 
-## ⚙️ &nbsp;GitHub Analytics
-<img  width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhcordeiro&layout=compact&theme=tokyonight" alt="KayoSilva19's most languages"/>  <img  width="500em" src="https://github-readme-stats.vercel.app/api?username=luizhcordeiro&show_icons=true&theme=radical" alt="KayoSilva19's stats"/>
-
 ## &nbsp;Social Links
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizh-cordeiro/)
