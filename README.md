@@ -3,8 +3,6 @@
 - 🖥 Desenvolvedor Full Stack.  
 
 - Trabalho como Desenvolvedor de Sistemas no [Fatture WEB](https://fattureweb.com.br/) 
-- Faço jobs como Desenvolvedor WEB na [Fourmi Publicidade](https://fourmi.com.br/)
-
 
 ## 🛠 &nbsp;Tecnologias que domino
 
